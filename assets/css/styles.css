@@ -1,0 +1,5 @@
+body {
+    font: 18px arial, sans-serif;
+    background:  url("../images/train.jpg"), no-repeat;
+    background-size: cover
+};
