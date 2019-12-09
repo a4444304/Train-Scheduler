@@ -51,4 +51,4 @@ database.ref().on("child_added", function(snapshot){
     tr.append(td5);
     $("#tBody").append(tr);
 
-});
+}); 
